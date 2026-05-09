@@ -9,8 +9,6 @@
                 Console.WriteLine(num1 + num2);
             else
                 Console.WriteLine((num1 + num2) * 3);
-
-           
         }
     }
 }
