@@ -12,7 +12,6 @@ namespace Assignment1
                 Console.WriteLine("Congratulation! You have the right to vote.");
              else
                 Console.WriteLine("Unfortunetly you don't have the right to vote.");
-
-         }
+        }
     }
 }
